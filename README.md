@@ -1,5 +1,7 @@
 # Clinicians Who Code
 
+![Clinicians Who Code](image.png)
+
 ## Overview
 The Clinicians Who Code (CWC) program is designed to empower clinicians with coding skills, focusing on the intersection of healthcare and technology. This 4-week intensive course covers a broad range of topics from programming fundamentals to advanced healthcare informatics.
 
